@@ -9,4 +9,11 @@
 
 footer {
   flex-shrink: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+  .copyright-text {
+    width: 100%;
+    text-align: center;
+  }
 }

@@ -7,6 +7,12 @@
 
 footer {
   flex-shrink: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+footer .copyright-text {
+  width: 100%;
+  text-align: center;
 }
 
 /*# sourceMappingURL=style.css.map */
